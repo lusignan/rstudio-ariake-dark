@@ -2,7 +2,7 @@
 Full RStudio IDE port of [Ryosuke Goto](https://github.com/pathtrk)'s [Ariake Dark theme](https://github.com/pathtrk/ariake-dark-syntax)
 
 <figure>
-    <img src="https://github.com/lusignan/rstudio-ariake-dark/blob/main/img/ariake-dark-preview.png"
+    <img src="https://github.com/lusignan/rstudio-ariake-dark/blob/main/img/screenshot.png"
          alt="Ariake Dark">    
 </figure>
 
